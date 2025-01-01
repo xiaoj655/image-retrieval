@@ -1,5 +1,5 @@
 # 微调Resnet101完成图像检索任务
-通过在线网站访问试用 https://xinz.xin
+通过在线网站访问试用 https://movie-image-retrieval.vercel.app
 
 ## 数据集
 从223部经典电影计算平均哈希的方式, 筛选出30万张图片作为数据集
